@@ -21,9 +21,6 @@ The bike imbalance issue may lead to decreased service reliability, user discont
 Our full research paper [here](https://github.com/HAKO411/Deep-Learning-for-Short-term-bike-sharing-demand-prediction/blob/main/Submission%20Paper.pdf)  
 Our presentation for the research [here](https://github.com/HAKO411/Deep-Learning-for-Short-term-bike-sharing-demand-prediction/blob/main/Presentation.pdf)
 
-### Descriptive Analysis
-<img width="500" alt="image" src="https://github.com/HAKO411/Deep-Learning-for-Short-term-bike-sharing-demand-prediction/assets/61934483/176111bb-b9ca-4ad4-b5c5-5a51f302fc98">
-<img width="500" alt="image" src="https://github.com/HAKO411/Deep-Learning-for-Short-term-bike-sharing-demand-prediction/assets/61934483/e47f7f54-e69a-47c8-a8f5-86118ed06d64">
 
 
 

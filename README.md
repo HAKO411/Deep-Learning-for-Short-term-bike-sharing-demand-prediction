@@ -20,6 +20,22 @@ The bike imbalance issue may lead to decreased service reliability, user discont
 Our full research paper [here](https://github.com/HAKO411/Deep-Learning-for-Short-term-bike-sharing-demand-prediction/blob/main/Submission%20Paper.pdf)  
 Our presentation for the research [here](https://github.com/HAKO411/Deep-Learning-for-Short-term-bike-sharing-demand-prediction/blob/main/Presentation.pdf)
 
+### Data Preprocessing
+
+<img width="1276" alt="Screenshot 2023-06-08 at 8 53 39 PM" src="https://github.com/HAKO411/Deep-Learning-for-Short-term-bike-sharing-demand-prediction/assets/61934483/f4b615e1-7b5a-48b9-8112-5d202c7a9437">
+
+### Data Structure Design
+
+<img width="1290" alt="Screenshot 2023-06-08 at 8 54 55 PM" src="https://github.com/HAKO411/Deep-Learning-for-Short-term-bike-sharing-demand-prediction/assets/61934483/95be37d5-8d31-4344-a54f-01c488d07f06">
+
+### The layered structure of LSTM and CNN-LSTM models
+![Layers](https://github.com/HAKO411/Deep-Learning-for-Short-term-bike-sharing-demand-prediction/assets/61934483/26eb08a5-b350-4266-bfe0-e693aafaa43e)
+
+### Time Lags with LSTM and CNN-LSTM in Prediction Accuracy
+<img width="1282" alt="Screenshot 2023-06-08 at 8 56 41 PM" src="https://github.com/HAKO411/Deep-Learning-for-Short-term-bike-sharing-demand-prediction/assets/61934483/0e7a97ed-9c2a-4803-ae8f-75b577ba7e86">
+
+### Average Pickups Demand in Prediction Accuracy
+<img width="1261" alt="Screenshot 2023-06-08 at 8 57 49 PM" src="https://github.com/HAKO411/Deep-Learning-for-Short-term-bike-sharing-demand-prediction/assets/61934483/495287a0-75d7-409a-b9b9-ae2ca1da1aa7">
 
 
 
